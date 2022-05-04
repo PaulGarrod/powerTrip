@@ -1,0 +1,58 @@
+body {
+  font-family: "Cairo", sans-serif;
+}
+
+header {
+  margin-top: 120px;
+}
+
+.header-font {
+  font-family: "Changa One", cursive;
+}
+
+.color-blue {
+  color: #2BADE4;
+}
+
+.color-green {
+  color: #0B4F6C;
+}
+
+.navbar-brand img {
+  width: 50px;
+}
+
+.phone-app-image {
+  width: 280px;
+}
+
+#ev {
+  display: none;
+}
+
+#car {
+  display: none;
+}
+
+#eco {
+  display: none;
+}
+
+#ev, #car, #eco {
+  border: 5px solid #2bade4bb;
+  color: whitesmoke;
+  background-color: #0B4F6C;
+  border-radius: 6px;
+}
+
+.footer {
+  border-top: 2px solid #2bade483;
+  color: whitesmoke;
+  background-color: #0B4F6C;
+}
+
+.app-store-badge, .google-play-badge {
+  width: 150px;
+}
+
+/*# sourceMappingURL=styles.css.map */
